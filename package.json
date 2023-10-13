@@ -2,7 +2,9 @@
   "name": "into-to-solid",
   "description": "An example SolidJS application using Solid Router and Vite",
   "type": "module",
-  "keywords": [ "SolidJS" ],
+  "keywords": [
+    "SolidJS"
+  ],
   "author": "Anthony Campolo",
   "license": "MIT",
   "scripts": {
@@ -13,6 +15,7 @@
   "devDependencies": {
     "@solidjs/meta": "^0.28.6",
     "@solidjs/router": "^0.8.3",
+    "netlify-cli": "^16.7.0",
     "solid-js": "^1.8.1",
     "vite": "^4.4.11",
     "vite-plugin-solid": "^2.7.1"

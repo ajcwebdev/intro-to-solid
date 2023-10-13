@@ -1,0 +1,20 @@
+{
+  "name": "into-to-solid",
+  "description": "An example SolidJS application using Solid Router and Vite",
+  "type": "module",
+  "keywords": [ "SolidJS" ],
+  "author": "Anthony Campolo",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@solidjs/meta": "^0.28.6",
+    "@solidjs/router": "^0.8.3",
+    "solid-js": "^1.8.1",
+    "vite": "^4.4.11",
+    "vite-plugin-solid": "^2.7.1"
+  }
+}
